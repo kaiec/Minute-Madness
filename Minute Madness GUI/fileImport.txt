@@ -1,0 +1,2 @@
+c:/Test.ppt;Das ist die erste Prese;RM
+c:/Test_2.odp;Das ist die zweite Prese;KE
